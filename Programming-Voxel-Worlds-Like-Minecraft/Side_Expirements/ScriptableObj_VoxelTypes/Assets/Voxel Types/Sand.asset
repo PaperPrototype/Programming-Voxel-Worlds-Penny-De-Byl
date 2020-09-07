@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f4a6e5a9b25d41b2bb138481bf8cecf, type: 3}
+  m_Name: Sand
+  m_EditorClassIdentifier: 
+  name: Sand
+  curSide: 0
+  uvOptions: 0
+  b_atlasSprite: {fileID: -8108841394658418865, guid: 868f78231c0204967af9330d2049dab0,
+    type: 3}
+  b_uv1: {x: 0, y: 0.25}
+  b_uv2: {x: 0.0625, y: 0.25}
+  b_uv3: {x: 0, y: 0.3125}
+  b_uv4: {x: 0.0625, y: 0.3125}
+  s_atlasSprite: {fileID: 0}
+  s_uv1: {x: 0, y: 0}
+  s_uv2: {x: 0, y: 0}
+  s_uv3: {x: 0, y: 0}
+  s_uv4: {x: 0, y: 0}
+  t_atlasSprite: {fileID: 0}
+  t_uv1: {x: 0, y: 0}
+  t_uv2: {x: 0, y: 0}
+  t_uv3: {x: 0, y: 0}
+  t_uv4: {x: 0, y: 0}
