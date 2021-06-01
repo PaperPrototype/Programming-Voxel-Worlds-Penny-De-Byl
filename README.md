@@ -9,7 +9,8 @@ Contains the regular course projects
 Contains a full implementation of fast chunks. Originially 
 Penny released a single fast chunks project but it was not 
 fully implemented with the course. So I took the time to make 
-working fast chunks projects that went along with the course.
+working fast chunks projects that went along with the course. 
+EDIT: Just released my own voxel engines course that is **free**, and it is wayyyyy faster and simpler than Penny's https://github.com/PaperPrototype/Intro-VoxelSystems-in-Unity
 
 ### Side_Experiments
 Contains a few unity projects with experiments I did.
